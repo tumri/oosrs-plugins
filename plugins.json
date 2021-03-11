@@ -1,0 +1,2434 @@
+[
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Diary Requirements",
+    "description": "Display level requirements in Achievement Diary interface",
+    "id": "diaryrequirements-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0CC555E065316D0BCCD4D24C5A0ADB611187F32FB630BDB91A525B307604E1B904DEB34C92941FFD8506A3FAA255DDCFFF7C38891D24E31A7048DE6DB0D48C2C",
+        "version": "0.1.0",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/achievementdiary-0.1.0.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Agility",
+    "description": "Show helpful information about agility courses and obstacles",
+    "id": "agility-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "95F8F1C48D742E1CB1986852E9DF64C08D4520E913B9A782B3BFB54E4E75557FDB600712AFE97AF39D4CCBE8D6EC78D2BF6AA6C95BA010C60E48F949DA30FEE4",
+        "version": "0.0.17",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/agility-0.0.17.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Ammo",
+    "description": "Shows the current ammo the player has equipped",
+    "id": "ammo-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "CF15D607078BFE3461CA1E7BE4D95D89F483EC02AEA166C35BB4150804AB2871C1C200C8EC8AB08629C0481F98867B9E048AA20CE4E5D0A64BFD702581B1E7E1",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/ammo-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Animation Smoothing",
+    "description": "Show smoother player, NPC and object animations",
+    "id": "animationsmoothing-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "04CFA18F737F99E010AB9AA8EF56C3088C85040727062FD0E021F5464D76895A54736B76C0E710BB199F2183A83115A30DEF1A6235E21B170E468058B450D95D",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/animsmoothing-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Anti Drag",
+    "description": "Prevent dragging an item for a specified delay",
+    "id": "antidrag-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "DF080F77D8C483602C6A4F05BB8BA7D3A48B6BDEED9B712A4C573A1929E1C534689697579A35C174B0E3F0B51DF0F48208EB9DF4CC05F9475347DE43C83A3A9E",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/antidrag-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Attack Styles",
+    "description": "Show your current attack style as an overlay",
+    "id": "attackstyles-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C73F801E50D396296D54E5B9EDEEC486882C4B2D8A7A62AC80720D9F2DB9041BA364700DEEF054FBAF9B82B8C9149001B3EC70859223F7DD83C7185BE900986D",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/attackstyles-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Bank",
+    "description": "Modifications to the banking interface",
+    "id": "bank-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "364C39D751C795E5649721F40C5B6CA2DCE8A92CC343C7BF5803A3BE13611C200EF4C784AE1F188D94C862A4DF7A997ED841C55371EA29C39F8FCAA8FB495AAC",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/bank-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Bank Tags",
+    "description": "Enable tagging of bank items and searching of bank tags",
+    "id": "banktags-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5B1BA35C2105A767E629CFC1BA0872F2512A68F0D67C1F03C88BE038AF2FA61DFD3C48D9860FB91A4220C31D100A0E305680B656174C4B619294C1C7D99C674C",
+        "version": "0.0.21",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/banktags-0.0.21.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Ban List",
+    "description": "Displays warning in chat when you join a clan chat/new member join your clan chat and he is in a WDR/RuneWatch/Manual List",
+    "id": "banlist-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1C67C673795557C1B0D2FBAC6988D91650C6AAC2A4B257424DDB238C7933E5C1921409D7488626021E7A1A0897A059E99FDD94DF81E496C059D08EC3345BFCED",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/banlist-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Barbarian Assault (BegOsrs)",
+    "description": "BegOsrs's Barbarian Assault helper",
+    "id": "barbarianassaultbegosrs-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1ACB0B274A79973BDD0D559BC0CFBB09337CB9BA2C32A4AC0E26FBB035E0A005F478AF4843F11697F50B9437650FCF86056DC5C69556512F1F4734EEFCA5E781",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/barbarianassault-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Barrows Brothers",
+    "description": "Show helpful information for the Barrows minigame",
+    "id": "barrowsbrothers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FF1FCEDD75B12EBB083C311C93F8D7C0214DC84538E744F0B5A4E437CE9D99B06F13123FB0FFF661B9B3A5BDD1B5E245D2549A48D289C17271B9080418D99C92",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/barrows-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Blast Furnace",
+    "description": "Show helpful information for the Blast Furnace minigame",
+    "id": "blastfurnace-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5C48105835B8F80271D4AE495CA29DB3CCA3CB9BCD79AB4F904A5BFB63BCF0408C42E48DE868564A819E087A6F507C3B2E10A14CDA339011C7615061378F7DCD",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/blastfurnance-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Blast Mine",
+    "description": "Show helpful information for the Blast Mine minigame",
+    "id": "blastmine-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "BA97634CB27044953DC203F52B8E38A6457F58F0BCFC5B09DB63FC0F5B457CCE6265677B6CA59921C9A0458D9723C200927A6BA49766F60896D45E422CEF1421",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/blastmine-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Boosts Information",
+    "description": "Show combat and/or skill boost information",
+    "id": "boostsinformation-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "4E9DAD2A550F7ABD14A30439A2C7ACE80FB8ACC159E561800BA4CC5C5A3250C8570EEFA3FB142F5594A8F89E7058BED9FC07475FA94FD18EC0D5D45D4516441A",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/boosts-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Boss Timers",
+    "description": "Show boss spawn timer overlays",
+    "id": "bosstimers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "243E0D2C0179E4D09977175B847E23568B94664A0F11B4D968C79CA760C5E71D1B72C9ECFE3F844FC576C8C7A4329DCC6FE753DF071597DB8075FF901AD5142B",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/bosstimer-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Boss Time Tracker",
+    "description": "Display elapsed time in the Fight Caves and Inferno",
+    "id": "bosstimetracker-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "278D00655E13553DD98683D2CC7B15F10B948C861E0FA6E3F187D7B9E94FA4383E8ABF95BC9A8BB1B4D32E3B120DF3ABC0C7B7F3A6E9E64E005ED551B7BCC888",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/bosstimetracker-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Bronze Man Mode",
+    "description": "Restrict yourself as an Iron Meme with GE use for items you have unlocked",
+    "id": "bronzemanmode-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "4CC428873C21A8E78BDD4F29A8C88E09AE7F16AC65FF98F1F3D777B3BA0D1C204746EA473A52E33BDA6B07A143FB441EEEBB5221548F9E298662DB193D217DF8",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/bronzeman-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Camera",
+    "description": "Expands zoom limit, provides vertical camera, and remaps mouse input keys",
+    "id": "camera-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "2B9F345F76DDEA182CF075197EC24F67D70E534D4E49482BB4125DA230A74A8799AF00414AA9CF1353393B69A3DF7BDDAE9BE4356AFF869080C72472C068A647",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/camera-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Cannon",
+    "description": "Show information about cannon placement and/or amount of cannonballs",
+    "id": "cannon-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "24027DC12A9A8F56524689915C4D6C970FC16BDFE44A67EA5E0C44FC26C144499D31BD82BD39B6E38F39F1ADFF1BA321B7E461C8924E81F4E083803A25A5669C",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/cannon-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat Commands",
+    "description": "Enable chat commands",
+    "id": "chatcommands-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8C98B33ADCCD38F041FF0BAA56993CBB1D6C2E4A9F932CDE926B342D7C93E4552277280719CABA9CD995E9EFF14C058C7E760DDFD437199A63741FAE02DFFE2E",
+        "version": "0.0.17",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/chatcommands-0.0.17.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat Filter",
+    "description": "Censor user configurable words or patterns from chat",
+    "id": "chatfilter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "D258652C41CDC7D5B8505C07D00E24420798FBA2AE9957EC50C32115FF4208E119F343A0D950AD38EDC1D584D5539CF356BF826FD60DD77680349AEB45B9B71B",
+        "version": "0.0.11",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/chatfilter-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat History",
+    "description": "Retain your chat history when logging in/out or world hopping",
+    "id": "chathistory-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "D6399EAC549548266D9AB5BAC30225E041ABDB0CBEA9BEC0672545C7CE4944143688B736AA2BB4AFAD97C3A9C148984FFE5075DB66DD00410B23BF435DC15E82",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/chathistory-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat Notifications",
+    "description": "Highlight and notify you of chat messages",
+    "id": "chatnotifications-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7E4BEE878339077A33028A12BCC1E69E709FC0156259E15108B7CCAC2EC9325D6D600A420DE8F46AAAB585C93587BE69220269C693D773CEE3133692FB0674C3",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/chatnotifications-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat Translator",
+    "description": "Translates messages from one Language to another",
+    "id": "chattranslator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "211D51FA599C842895CB6B315AF8064A7CD93A6E7FD2B401D4B3332C137A780459E0E79D2A7BE6305E579FEDC8A5910EF8E942B19D3B8B3E99511C256AD5729E",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/chattranslation-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Clan Chat",
+    "description": "Add rank icons to users talking in friends chat",
+    "id": "clanchat-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7625B90393D68E4E2B370FB3AAFEC11E0FA408334250FD66291808AC3B24AD3A5C1DA8EDFF895566EC391D5652411D4F3F4F1C0D2443527CF3C84874A19A4944",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/clanchat-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Classic Rev 377",
+    "description": "Rev 377 client that connects to our Apollo powered private server by default",
+    "id": "classicrev-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7C713BBE98D003C3815943BD8B4B2A228BAF8128CF1898FED8C9604B49E427D55C971F91D2BB1CB554E9BDA7550AC7941BFD8D737FF3411EC17E6115484F8A16",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/classic-377-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Clue Scroll",
+    "description": "Show answers to clue scroll riddles, anagrams, ciphers, and cryptic clues",
+    "id": "cluescroll-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3C7A1383E8B396BC6D9AEC46D8A7B45D0E64057F9C4B724E2E5D4176E68B7B6BC1D3B45C41FA35C7C421CDBE53D43C826AF320F2E98496D757DDDDF9BED4263B",
+        "version": "0.1.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/cluescroll-0.1.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Combat Level",
+    "description": "Show a more accurate combat level in Combat Options panel and other combat level functions",
+    "id": "combatlevel-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F597DC9EFCA11B32865E044655AF9EBD18AB6F88DCA3DC621517A5871DDDE2B0466CD2196F709FC38D519A439DAEFB42F8506D882595CA79169075F279073C05",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/combatlevel-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Cooking",
+    "description": "Show cooking statistics",
+    "id": "cooking-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "4AC6647DA07F59B60AF7D54E74564E0E829A820AA72B6EC3985E13229ABE5D3DB6A2AAB38F00D2BC88047E37DFE421CD0861E6DDA057936F4135C8E61EA1C9C3",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/cooking-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Corporeal Beast",
+    "description": "Show damage statistics and highlight dark energy cores",
+    "id": "corporealbeast-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E14A729425F86436C4A8C11A3778B224A16BFE8A9B1AB80AE25FF0757D3868EEAE0E4CCD8AB7D1D431D5F3C5A57F6DBF411BA74CEE31B5AFA9A094DC0FADA4EE",
+        "version": "0.1.0",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/corp-0.1.0.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Custom Client Resizing",
+    "description": "Resize the window to saved profiles",
+    "id": "customclientresizing-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "053B7CEC95B0414BC0F0F1FA6ECEC8451BDA398846ACB79F84B4D11912F6DF3DF25827783439A393812EA770953947088EC79EE339E0C8408C7012860022AF74",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/customclientresizing-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Custom Cursor",
+    "description": "Replaces your mouse cursor image",
+    "id": "customcursor-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "17F4D6A89E3C32DA5296B56F469BB50BE5A13DDF2768A83EEC607862B36FE615DF1848E1149713EB1535AE9BCB30BE3D9BFA4597A98172A36CAC7F4BA93EF4E0",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/customcursor-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Daily Task Indicator",
+    "description": "Show chat notifications for daily tasks upon login",
+    "id": "dailytaskindicator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B89A542E1E38ADFDA68B35FCA98266CBF4D3A21CFB84E7B2407CF0AD6F531B67391E5EFE2A990F94C5759D7ABB6ABD8E7F82E30370CD10A5433E11EDEC3BFFB1",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/dailytaskindicators-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Death Indicator",
+    "description": "Show where you last died, and on what world",
+    "id": "deathindicator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8D8CE503D20E6CF06082881D4FE5A6ED6413CADA71D46C0FA00AA4FFA2906FBAA9BB3F05EF61E2A80DA4DB05F55B6C520754BD7B5960ACE758DE3E09ED8D696B",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/deathindicator-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Default World",
+    "description": "Enable a default world to be selected when launching the client",
+    "id": "defaultworld-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "4DFABD50530D86EB54DA2C34195C7397B000D08925B2752BD5DCA18CEEA8E8C6266813833F29281C62A146B77B1A1FE6C640204C81B43DCF6FF037161A571500",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/defaultworld-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Developer Tools",
+    "description": "Enables the developer tools",
+    "id": "developertools-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "6085D8C05D3E6A54E03A4840865E6129BE71DBFC9C3F775DE18AE4A5ECE9064FBE21290105FAA2165720F642887C88B36331C29E2D905967B6739A10ECB5CC3B",
+        "version": "0.0.28",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/devtools-0.0.28.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Discord",
+    "description": "Show your status and activity in the Discord user panel",
+    "id": "discord-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "2E896ABA0797E0690243F14A6F6AACCCBF16966900040F3D0FEE2CFE3F1CA341131294406D21A46D4DA369CFF17ED4394AEF542462ADDCCFD6A4CDB6908059DE",
+        "version": "0.1.1",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/discord-0.1.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "DPS Counter",
+    "description": "Counts damage (per second) by a party",
+    "id": "dpscounter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "79F13F149C4946B885F0EED2239DE2058E7DD3E18FBD91F80E509C3835A1B1CC2F8588113DA938408C1FB44A901582BAC31AD58D136B3F4E4DF3FA51B017BEA6",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/dpscounter-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Drift Net",
+    "description": "Display information about drift nets",
+    "id": "driftnet-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "788A8DF6285FA70064E42290846F11C909C3D626EFFB1BED0304820AFB95EB7713503DA179B28EC9A7B28616EAF4CFCD612E407B2B09B0317E9234B07E1CEBCA",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/driftnet-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Emojis",
+    "description": "Replaces common emoticons such as :) with their corresponding emoji in the chat",
+    "id": "emojis-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7D5D2F3C4169D3F6EC7AC9550AC4CF1530FE7722CF83C13F0C4E6BE0BFEAECA29BF3FCB16639B73C8459E1AEDCC258370B19CFE7F76F7B33A4C10D8F863CF1F8",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/emojis-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Entity Hider",
+    "description": "Hide players, NPCs, and/or projectiles",
+    "id": "entityhider-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "ECD23FA5433F3B784218101676AFC2196F70799B3B58CF43F7BC5E91BA812B31843719EE581C2B6C9157512D290ADF616F97038F3215F662622EB0413CE77C50",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/entityhider-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Equipment Inspector",
+    "description": "Inspect other players their gear",
+    "id": "equipmentinspector-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "CD0AE4C865EB2EF7E01D4FFEF8D7D09501CE86E88CBC534FEB150263E7254CA9E67C867E6CAB133B1E1A05FF9DC3EFBFB8A415BFD0AD65FA67D423EDDA09FA31",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/equipmentinspector-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Examine",
+    "description": "Send examine information to the API",
+    "id": "examine-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "764AAF6CEB992F38BFB26B206AD67E4DB2C28E56D060AECDDCA249CE0721982B8950972198F97380B77F5FB309E0F63142DF9784A576483DC9641B8922B05CCF",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/examine-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "XP Drop",
+    "description": "Enable customization of the way XP drops are displayed",
+    "id": "xpdrop-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B89D304F1B2F936BC4995350D657D597F56AE7CA6B69FEC43B45F69C7CE8DF7841C021DDEEA71BB15038F6A63153F63A1070D2446C7719659774D357CEC94DDC",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/experiencedrop-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Fairy Rings",
+    "description": "Show the location of the fairy ring teleport",
+    "id": "fairyrings-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "99A8A3D9E1F1497309366DF65DB4CF1BF427926B5EE5C81EB9BB1F3052532F57D7B8F0FF378F15E0DAB6BFABD38C611CDBDFC0C27E7DBD9FBCC7DA06043A1E48",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/fairyring-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "News Feed",
+    "description": "Show the latest RuneLite blog posts, OSRS news, and JMod Twitter posts",
+    "id": "newsfeed-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "04D799E5FDF18D5437202321EB0F0523FC8A57ACC2F905F265768289939E0059F00B002E81D2C13E8FB4FF42085A12D3DF682C19E4EF06E6EEF3E58CDCC43843",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/feed-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Fishing",
+    "description": "Show fishing stats and mark fishing spots",
+    "id": "fishing-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FE5855FF6E230DFD2CC645DA61A0E890AF159DF432691AECBCDABAFAC095CBC1B39EE95825FE1523BD888CFF0C97B43AF4C87FB131219B360617B701BA4E66CF",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/fishing-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Performance",
+    "description": "Show current FPS or set an FPS limit",
+    "id": "performance-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "254B64948DF316DAAA944A42EA965F84D98FA97BB2EC39D2D0540104B35C6081B66C8C88E0F7198242892727465372181778F21DE2CC7F8F40719A2104BA5314",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/fps-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Friend List",
+    "description": "Add extra information to the friend and ignore lists",
+    "id": "friendlist-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8533C9F4ACCD1FD48F2AFA25E59E62B9D5AC7A5B60B8BF6CD819AA0B918EA4A0B90A91CACD0A81480F4C52C8590FA5691D838A6123F402321D6CDD61BE3D95C0",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/friendlist-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Friend Notes",
+    "description": "Store notes about your friends",
+    "id": "friendnotes-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "4DD391BBF4CAB95C24D0054B918B833DCBADA528AD40AB32DF61D81A25B2FC9E65471DF73327E3A1B48CD9C3748ED37F19B3895F95D4FFFECE6005D9CF40FE54",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/friendnotes-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Friend Tagging",
+    "description": "Tag people on your friends list",
+    "id": "friendtagging-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "71BC7F740EF6945B731C525D8212FA9C4E15BF09F9C0E6BB57A226DEFB6356622E9F9C3119DD3905E64DADB3E0B54D14962FB8393E2A8122B8254DA5CAE10E87",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/friendtagging-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "GPU",
+    "description": "Utilizes the GPU",
+    "id": "gpu-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "623077F739FFA8E6750EDB39A64BD2B4B831EDFA8A467020D3E1942254675F84B46E9BAE6EF74D37FE57E574D7DFD4BFD26EB8F3099271CE6C7B6F73CA0CD5AC",
+        "version": "0.0.29",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/gpu-0.0.29.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Grand Exchange",
+    "description": "Provide additional and/or easier access to Grand Exchange information",
+    "id": "grandexchange-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "415978097C5C75D11DFB94ECC08E9EEA0372658C3D156D58289E3D3014EED9C606733BE1FFF8F0D0174ABE613095F5F65CED84410D73C9C141CE9CC66F83F07C",
+        "version": "0.1.0",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/grandexchange-0.1.0.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Ground Items",
+    "description": "Highlight ground items and/or show price information",
+    "id": "grounditems-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "D014F16B734CCBF56A97CCE8E4C82412C7F4870AC1B32E17F1F0C7950E938A25AAF4BA07D1066A34780363F3D21FEA6E7F348B7BDC77214BB8BE46E2FD60CD08",
+        "version": "0.0.19",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/grounditems-0.0.19.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Ground Markers",
+    "description": "Enable marking of tiles using the shift key",
+    "id": "groundmarkers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F021D9A4281E86F37490846E5CF742EF975BA4B53FE720BEB19825277A219EF6F6D57701010F26DF71509AF291688038227CFFF7E22E69D1E3C8E586011C1D06",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/groundmarkers-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Herbiboar",
+    "description": "Highlight starting rocks, trails, and the objects to search at the end of each trail",
+    "id": "herbiboar-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "59BF11B66C1A40221F0C66480A2329ACB8855F58A60795F7537281B5D96D64AFA10558D2F14A51F638A1A6BD2DDF006FFF948C5FAA975E3F5CCA7E2405A5EEDD",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/herbiboar-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "High Alchemy",
+    "description": "Highlights items that yield a profit from casting the High Alchemy spell",
+    "id": "highalchemy-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C5C1B23366B9549470FE6E40F8F51B9A362FB3F8097EB8D48ABA9198A1AB4FA0613AD679DB49CFD8E822B7947B38D29538A359D58EDC8544C7A04AF52F8E2C5D",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/highalchemy-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Highscore",
+    "description": "Enable the highscore panel and an optional Lookup option on players",
+    "id": "highscore-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "14717C30B319F45011AB656CCC91FE1E356A08ED5301DEB354B4C880ED0D4945B25CBCD73976184DF39BC956973549FEFC523104A5CA653B69208B8F92984DB8",
+        "version": "0.2.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/highscore-0.2.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Hunter",
+    "description": "Show the state of your traps",
+    "id": "hunter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8E7372016B1CF3E7FFCD525476E210C2BDEB9E54F36AAC2ED965B5E622CD941BCDF815575F438B7D60B0C74FC171A495FDA2CC625AEDBEBEB81F5AFE85BBC0DB",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/hunter-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Idle Notifier",
+    "description": "Send a notification when going idle, or when HP/Prayer reaches a threshold",
+    "id": "idlenotifier-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "DB1AFBD29804EDD3B97A8E5E27E05FFEAFA43B86E7F60DFC74FA922B8CFA8FB7034B3F6147A68C178195A49C3189B0623D0B05574B7D2D5DA34CF796541D6C80",
+        "version": "0.0.11",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/idlenotifier-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Implings",
+    "description": "Highlight nearby implings on the minimap and on-screen",
+    "id": "implings-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1B98C18D4604987B70BC9B11A43B534D85900C07E4E6E0287E1AFBEC09606D5F2AB6A3D05D4CAE1A60BB0510FDCF1C3382F08DB8F03F351539F4C1519A0EE428",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/implings-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Instance Map",
+    "description": "Add an instanced map, accessible by right-clicking the map button",
+    "id": "instancemap-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "906DA04ACA2FD04C64FE6540DD3F562FCD70AE92D79E609DDB47260BFC61748E1662473DD9B62DA76D996E473FEA4868378B056784249FEFEE83452FF282A0A0",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/instancemap-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Interface Styles",
+    "description": "Change the interface style to the 2005/2010 interface",
+    "id": "interfacestyles-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "A2F0934F324FC9A8729C7CEEBDF6290E9A7A77311758168E6F89275A7500C4835B27A3EC3610FF52F77889E76E2FA023A4A8C9B12F8D43EAAFB77541D690B1D6",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/interfacestyles-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Inventory Grid",
+    "description": "Shows a grid over the inventory, bank and a preview of where items will be dragged",
+    "id": "inventorygrid-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "AB1F3D9A128BCA7CE647651F2E931A999103ABA6B94D07DFB5B0C72A8723259306E6D918E73A85027F657586D999F238BAA8E257C1B7568B1F78BCF5DFB3ADEA",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/inventorygrid-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Inventory Tags",
+    "description": "Add the ability to tag items in your inventory",
+    "id": "inventorytags-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3357C9F0A2A70567D7C6CDA328BECB3614BD808DED40BBC4E2F18150F464996CA33B9D46F1360E331D2B4D6CECB06503213277667B8E8D0C84AA33C84F49C986",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/inventorytags-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Inventory Viewer",
+    "description": "Add an overlay showing the contents of your inventory",
+    "id": "inventoryviewer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "6A60B78575B7A863613BD83BEE7486423B37EA86D9B24BE87ADA687BA099EC40871ECA78B091BE26081EE1456D79687A1C7F68CB59B2203DAB914EFE0F29E713",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/inventoryviewer-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Item Charges",
+    "description": "Show number of item charges remaining",
+    "id": "itemcharges-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5DE881714015FF157D442510CEB05424A2A4A84EEF5DC0CAC7820BDAC0C280C4280808110F6AECBE1D6E92E7735ABAB5C13A8D65072C80110D5C05B688D59F7B",
+        "version": "0.0.11",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/itemcharges-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Item Identification",
+    "description": "Show identifying text over items with difficult to distinguish sprites",
+    "id": "itemidentification-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "16D5BBC7AAA296FCACC0C8B67E06C1686AD79479B45FB8C33C81904A1471A50FEB87A575FA5A3ECA2C692B2FC361810B585C981AD532C5714644C80FD7737908",
+        "version": "0.0.9",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/itemidentification-0.0.9.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Item Prices",
+    "description": "Show prices on hover for items in your inventory and bank",
+    "id": "itemprices-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "83220DFBB3BF26F572C877D47106D598F64663E76EE34F855094B0C10B35CC46ABA1754326E07FAC103B7EBB64CE87FBA7090DB1D1513770B15C9A6DA06DDBC0",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/itemprices-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Items Kept on Death",
+    "description": "Updates the Items Kept on Death interface to be more accurate",
+    "id": "itemskeptondeath-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "701632D93E3EFF3825E2D9566FD5A8501FCAACBBB88C063012AEFCC934AF9D1E21919106589EC53EA707A8B81890E95E1031B52E50BD58B03F4302609769673F",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/itemskeptondeath-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Item Stats",
+    "description": "Show information about food and potion effects",
+    "id": "itemstats-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1D804F7ED8125313E73B3FEBA9B0F0F3DBDACD6141E2B29BD156F5461E15B5662B23FDE4D4F397BFEC50472C727A1BE7249848F6DCC575840247BF3878B1D888",
+        "version": "0.0.15",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/itemstats-0.0.15.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Key Remapping",
+    "description": "Allows use of WASD keys for camera movement with 'Press Enter to Chat', and remapping number keys to F-keys",
+    "id": "keyremapping-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "03C5712802C773F71B6688F20714D2267C8F29D4CC4227C1ECAE6B44E84E1BCF08B4EAC4188277F76136318180DB7A2720AA8BF5510D290FDE7448C8828ADCE0",
+        "version": "0.0.11",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/keyremapping-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Kingdom of Miscellania",
+    "description": "Show various informations about your Kingdom of Miscellania",
+    "id": "kingdomofmiscellania-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "861CE51C3546A75C5A63A2A23DDCBF851CE04D52B644D0D3684BBE2223CC1A971A0F23B03D24D996909BB850A72E73030CE54046FC45EE8D56379477B216D429",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/kingdomofmiscellania-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Kourend Library",
+    "description": "Show where the books are found in the Kourend Library",
+    "id": "kourendlibrary-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0660FD6738CE30F116A6C7CE1758A6964D1FEF0A85978AA29FBA95B4B428EEA50B5A9C28601BBB544234005CF4DA0346BBA626D91D36138B1E3EF4001A774814",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/kourendlibrary-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Learn To Click",
+    "description": "A few modifications to prevent misclicks",
+    "id": "learntoclick-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8B33623B924C2220AFACE1C44D730FA2878FBEB0E3DD73A78C11314DC7A3A9CE03F927B6926E4ADE6752AC54652D25B2F8F09566DD1A00BD0303AD195DAA8CF0",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/learntoclick-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Login Screen",
+    "description": "Provides various enhancements for login screen",
+    "id": "loginscreen-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "573C2F55B56AF4014DE07E4A4D3CD194219DE0B847D8B2CCC3A93995DDB474A830F37329824CA2E50A0794A87DF2C47BBCB502B5C6091EA92CB9FA2DE75D3241",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/loginscreen-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Loottracker",
+    "description": "Tracks loot from monsters and minigames",
+    "id": "loottracker-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F76F1355F63D171F5B63AB2E3C6B3EC26AD10CF4D9B55CAF69D4BC0BB72C311846677853FD2665360DE760CFE292688FB4E028F6FF63D4B9F7F9C9B22A897541",
+        "version": "0.0.29",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/loottracker-0.0.29.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Low Detail",
+    "description": "Turn off ground decorations and certain textures, reducing memory usage",
+    "id": "lowdetail-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0C003471F0C7F0658E3E796B562A59A1FCADA80DA63C596647FA6748F1DF14292BE0D219F2FA0D07FDC8AF73F3F80BBFCDA2C76BBB3C9F4892B2FA81ED2B71D9",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/lowmemory-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Max Hit",
+    "description": "Adds the max hit of the equipped weapon to the equipment and stats widget",
+    "id": "maxhit-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "50152977C9E82D75A627D8C85AF161C24BE790E66DEDFFCE6DD583380135F6CC5337CE967F883EFE94384DA75BCDEF2E6669EDB64F0E762AEF03CE7C40506131",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/maxhit-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Menu Entry Swapper",
+    "description": "Change the default option that is displayed when hovering over objects",
+    "id": "menuentryswapper-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B8FBE3E3FE1962EF3546247B37980F7211B7E56ED455178553557709427BAB667FC23D0EA4BD930C9F4A5A14603BF35E6390344F22AD6B76D0DAFB6A126CB368",
+        "version": "0.0.28",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/menuentryswapper-0.0.28.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Metronome",
+    "description": "Play sounds in a customisable pattern",
+    "id": "metronome-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "D7314CCBCA1613E205E823DADEB4639B9A213660187BED550BA9806AAE880C02B9F7569944CCA5EE26B93D8881D6A1E584BB30FBB4222AAB8DFB691AEF279847",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/metronome-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Minimap",
+    "description": "Customize the color of minimap dots",
+    "id": "minimap-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F53EB12887408DE4CE2127A705E25747D6A1F9E30CB6112947A350EE5E139A3693405392BB824ED79D50C9F81B19670F031063F96FF252349AC49A4124298AAB",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/minimap-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Mining",
+    "description": "Show ore respawn timers and coal bag overlay",
+    "id": "mining-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C208F40A2C71258419E39264D467A7BA1CD31DBCE2D18CB3E3074CFED9F481932656F1976633DB69E3F8288F9AE051CEA80C6A8D32AC70F1B87490674963C0DD",
+        "version": "0.1.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/mining-0.1.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Mirror",
+    "description": "Creates a second window that contains the game screen minus the AFTER_MIRROR overlay",
+    "id": "mirror-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "2010FF27909754E762E884D7C47ED737C948A7382BFA907B14E55B044B3E44D4B343B3E8FF6FCBE928DD261F011BFC40067FCDBAD150F33F35C3847E762FC60A",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/mirror-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Motherlode Mine",
+    "description": "Show helpful information inside the Motherload Mine",
+    "id": "motherlodemine-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "379E0FB9A95E4FA939A6EBDA6C66A7B05368873E9A4A8B1C06D22E6B4403CEF249A8ADF7303239C2BFEE1DC1C72FDC166EBE05CDDFE01D70BA88EAA74F7E2DD2",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/motherlode-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Mouse Tooltips",
+    "description": "Render default actions as a tooltip",
+    "id": "mousetooltips-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "AB79E6A257A0697AAA561420872BF04BB727758B2B5F968DEE712817A117BE2C378B34F2734631ADA57C602A53ACD24BCDB87AF5E3C070FAEDE7E8BAADFFEB60",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/mousehighlight-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Mage Training Arena",
+    "description": "Show helpful information for the Mage Training Arena minigame",
+    "id": "magetrainingarena-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "97B39F61D27404019DA11C403D0C56997075A102304861DD6C42DDBAB634572F653E8D8EDF32B99159D6B884BC42B9172123A2243DD37F3407E7289652749D00",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/mta-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Never Logout",
+    "description": "Remove 5 minute idle logout timer.",
+    "id": "neverlogout-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F38B45F5C3C2BCF19BBB30F027EBA55FD601B44870E6E4B168BE50A8B527F4E03AB95F08D2A23742681CD3FDEB3D327240EAA62F3AFE9BA733BEA1CB33A29A70",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/neverlogout-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Nightmare Zone",
+    "description": "Show NMZ points/absorption and/or notify about expiring potions",
+    "id": "nightmarezone-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C22138C556D8A374D60EE13C21993C6E27757D2B90210F0282896907FD58416BAACA4410E4C4111635A559972F616BF3DBE5A3842DAE7B20CB301A9A14017FF3",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/nightmarezone-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Notes",
+    "description": "Enable the Notes panel",
+    "id": "notes-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "03DF2CD2740198F0A880BDCE39649688B9B775E63C19660626435651C15638191DB86B868E911A9EBCFE4C075258F105DE1D6A622ACCB479DFE2146CFFE5B3C6",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/notes-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "NPC Indicators",
+    "description": "Highlight NPCs on-screen and/or on the minimap",
+    "id": "npcindicators-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "60D68EAA39A7FEED4AF00F191F437EB21F8318D07684FE86E99E91E8918ACCADE1F0CB77FF9A6AC74891C65554863D83F23838D054D06657CE859EEAFF14102F",
+        "version": "0.1.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/npchighlight-0.1.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "NPC Aggression Timer",
+    "description": "Highlights the unaggressive area of NPCs nearby and timer until it becomes active",
+    "id": "npcaggressiontimer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B1A1D451E83346EB11A1460E23196AD56A4071622C76F3B4561B1FE9E4C8C55AA90D6373B175E13ADCCE9D89D5F1A3B2E108F62FD13EFF05E6C3A6A402CC8339",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/npcunaggroarea-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Object Markers",
+    "description": "Enable marking of objects using the Shift key",
+    "id": "objectmarkers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B1C96B356B9A43A4878A660879473015BCF577E225DE014E9AA2D92FA56FD8E143CAACCF07846D1CC910DB03432DD9CA156820D914DBFE228E88905FCCC9C2AA",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/objectindicators-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Opponent Information",
+    "description": "Show name and hitpoints information about the NPC you are fighting",
+    "id": "opponentinformation-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "77B6AF58F0F7D97098C1DF62469CA42D074A19137D35470A9A9C4DE289B858DB05A9C1D930AD36FD3C236BF40ADBC79F7B5070B0AE5B60B34AA840E60D18339D",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/opponentinfo-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Party",
+    "description": "Shows useful information about current party",
+    "id": "party-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "ABC6F129C2C4B66D0BF8F74D4C76152BB9CDB1DB01025082D3BA2662CBA11911A2E81FA820CE7B008D8D3C6C2605D3259CD396D81053CA958A9E24211E910938",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/party-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Performance Stats",
+    "description": "Displays your current performance stats",
+    "id": "performancestats-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3C3D2BD73092EF40A73B8504B4BC47A6A9A08467E9D672020D63F3B61DD9DCC65F0D7704E16B76AE06E35F16678FAE473D3C0CC9C2932A094ECACF97C87C10EB",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/performancestats-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Pest Control",
+    "description": "Show helpful information for the Pest Control minigame",
+    "id": "pestcontrol-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8D870DAA5E878B11FF837E97C6CDBF3132B302B62F3CB008CEE02321BB57058FE942114D582907A15E93BFB147BA64C543A9B98B29B16AEDA55D625B6716EFC8",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/pestcontrol-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Player Indicators",
+    "description": "Highlight players on-screen and/or on the minimap",
+    "id": "playerindicators-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "639458435A421E58702A3F013ED1D3DD58198F52A43965060146B044FF00F155015EA965B4FA3B6ECDE5128C7753481F9D8C5FE836E3FF7C386277C44D43EAB3",
+        "version": "0.1.0",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/playerindicators-0.1.0.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Player Information",
+    "description": "An alternative to the Minimap Orbs",
+    "id": "playerinformation-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5A4BB3A389F4B9A0358F0F5CA4DBBB23C30D2200FA6E30B589430589D795E00DF9EF57FFB446EFF2669576FDCB01E58D663757688A41245FBBE99AC359B51C41",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/playerinfo-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Player-owned House",
+    "description": "Show minimap icons and mark unlit/lit burners",
+    "id": "playerownedhouse-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "469F51A75567361C3F366213435D207D0BD4994ACFD12A75B404DFBCD51B453D69B818940E47FC142E7D62BCE85D762FD8011A1E905798418C9F63DE414C612F",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/poh-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Poison",
+    "description": "Tracks current damage values for Poison and Venom",
+    "id": "poison-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C0B36B2F7A17AC429FC9D7F559E31D0905BF13F220F7A1106271853E8E004C4B12BE066A38CFCDA7B9D169715F2FDED6B89BE062F9A404D770B268C937EBA8CE",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/poison-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Prayer",
+    "description": "Show various information related to prayer",
+    "id": "prayer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0EA07C1CA72BF97460760D6A318F31E162E63A959BCAB0BDC9B37D48041C4C4A054709B31A18320AD10CC9B2074D942DA4010A46BFA265827F7BE9DE90AFF76E",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/prayer-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Prayer Alerter",
+    "description": "Alert the player when prayer is low",
+    "id": "prayeralerter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "BE8EA969CE5CB852FC59436D0C39A02E3F4B53A6328F6D8F5F7120DB82F0B988D50FD12BA4C10E2BDAA7BEA1BF5A30B73650EF61F751A87E4D792FDBB4418817",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/prayeralert-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Private Server",
+    "description": "Settings for connecting to non official servers",
+    "id": "privateserver-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8F42D50F868AB3558AE59894B6AD215CAA06B729593EA13BA9C9139CF42759C73CA1C9EA35E84F78F302F007031058E4E774C10253A619BB5655BC2FBE52E176",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/privateserver-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Account Switcher",
+    "description": "Allow for a allows you to easily switch between multiple OSRS Accounts",
+    "id": "accountswitcher-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "D671511B011B10372FA1E8AE279AF4BEBE0C79192FE3E4BF1E346ACAE2C59D7D517DCC62F64B21C60D4762A778C91A5AF86E7812A703A3B82300F236D59A6C61",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/profiles-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Puzzle Solver",
+    "description": "Show you where to click to solve puzzle boxes",
+    "id": "puzzlesolver-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "6DB4AD7FFD944451519C3F1CF4722A1D55C3BD846D693DF10EA4446DF1ACDFEB323B419540C3835E9A59BF54872EB0EE3223744D725346437BF1EA1657ACEF53",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/puzzlesolver-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Pyramid Plunder",
+    "description": "Show custom overlay for Pyramid Plunder",
+    "id": "pyramidplunder-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E0591342EBFCD3B2092EA493CED2483B071434B89230D6D4EBAB22C8ECC0EA0A57DE64CB2E27608491B730F8250F0EF50A6C796F628DD8BC3144C0133437F5BE",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/pyramidplunder-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Quest List",
+    "description": "Adds searching and filtering to the quest list",
+    "id": "questlist-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8AF37040F154116E2FA937603C57B46273D2D2EE5B8D378C86C299074D554B4D3EF637B0746529626C4EE3C1A5F003941304E8AA7CD9A590BCA5673FA9AC7AD8",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/questlist-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "CoX Scouter",
+    "description": "Show helpful information for the Chambers of Xeric raid",
+    "id": "coxscouter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "A76C50CFCB193A8C69C8EB06E2D2B4790A23ED3560E34434712DCC77D04962F400EC79487D0DEBBC89C29E79BCFDE830E553974AFECA8882ECD1B5C5DF8E7076",
+        "version": "0.0.20",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/raids-0.0.20.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Raids Bat Locator",
+    "description": "Tracks which chests need to be searched for bats and which poison",
+    "id": "raidsbatlocator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "EEA1102104AB2F5F247830EF9EFD2D98975216CC5A895ED3252667BFA6B3FBC74F0928D64F3216EC8A2D82E4E7677D60377188918034BCA9D98DEF0B0B17AD74",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/raidsthieving-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Random Events",
+    "description": "Notify when random events appear and remove talk/dismiss options on events that aren't yours",
+    "id": "randomevents-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E4C469FCE3CD0E6F0308F9BA499AC7F47CD8C83936537EB03AC269DA611B34BF7CE14B548DDDB494AD37C05E83612F0A69ACDD234F5DA9AD92873246CD0F85AD",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/randomevents-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Reminders",
+    "description": "Various reminders",
+    "id": "reminders-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FF49AB5C7D5CD1E3BA20AF6DAD0F18D100777361CE66B68786569AEE6CD636B98F628135CF709F0BA883DE70C96764A518CB79DFDB13588F298B4FBA4C5AE544",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/reminders-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Report Button",
+    "description": "Replace the text on the Report button with the current time",
+    "id": "reportbutton-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "9979FFF52AD04FBA585DAAB39582717FDFF61B3FC36F0D61F4493C5762822C55C02D46E9695EA36FB9DE4CCB734E56067B12A761AD6EDD09958C3D904AECFD33",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/reportbutton-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Rogues' Den",
+    "description": "Mark tiles and clickboxes to help traverse the maze",
+    "id": "roguesden-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "21FF77535232BA072FF1CCDCD0154AE92A65C2C066DAEDC4FB3CC89AFC11C8716F753C6707D5156CB8C7879F4E075DE35B9B8EA193A9E633E9137F80A5032A61",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/roguesden-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Runecrafting",
+    "description": "Show minimap icons and clickboxes for abyssal rifts",
+    "id": "runecrafting-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "02964B6873BA83920255C0EB4F9191F2EC088847856220D3F42B1496FD55DEF366C497569DC07D022A563D28E6CBD33086316423D286FE09C39B6029850D385D",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/runecraft-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Runepouch",
+    "description": "Show the contents of your rune pouch",
+    "id": "runepouch-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0E5074C0E9CDD242D81D8FD4389493F0A5D76B3F33B9752226E986ACF80387B2EF19F52EE41FF0E697515BAB1B1D4BE9C830291B5E68727762D9A250A16673C0",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/runepouch-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Screen Markers",
+    "description": "Enable drawing of screen markers on top of the client",
+    "id": "screenmarkers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "24D1503F609A3F78D24F4BBE23E9A218AEA1035240214B9937C2959FEA74822DF6FDD2D64518CC494BBD1CA7FFE1E5AAE093522FEF213F5797F1C6674438C873",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/screenmarkers-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Screenshot",
+    "description": "Enable the manual and automatic taking of screenshots",
+    "id": "screenshot-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "60A98EC29F702A51E08EC84AF4C705D8A6AF6F965C1453012B3FE3F17108AA0614CAEB12DD8634168BB91D1EA25637A2D913D518B0EBE69D864D3D23C99C60BE",
+        "version": "0.0.17",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/screenshot-0.0.17.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Shayzien Infirmary",
+    "description": "Shows the status of wounded soldiers",
+    "id": "shayzieninfirmary-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "00DC62DA9BD7D58F391EA138EC34B64A66CBAEF9931F4F12D49931A297A7E6181B390890E23A74E12B4A5FE70855D0494178B26D9C143C6182C2AFB7DC07B7C8",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/shayzieninfirmary-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Skill Calculator",
+    "description": "Enable the Skill Calculator panel",
+    "id": "skillcalculator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3742B4040CADB03051B1628B65BE5EC127251D766C8865113D9EE18EC315BB44F7E75FA7D6B30FAF74976A8E7555779EDE76283A2BC8858416729C052DBBBE77",
+        "version": "0.1.1",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/skillcalculator-0.1.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Skybox",
+    "description": "Draws an oldschool styled skybox",
+    "id": "skybox-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "24FC983EA038D6F546BD1B8891C132679F88D8920FD1B549D0BAF2E24E3382793E0C5214AA722C88942DE8F14299B4DA67D0347BEC43D01D5221F9C2086C1314",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/skybox-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Slayer",
+    "description": "Show additional slayer task related information",
+    "id": "slayer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B728E456D1CF5057C31D7DEE0A298F251697CC235CA3BF8F9F6411A1F44BA958199C3955F04561A544DD2653C1C4B6156EA6732F4D3E057E23201FCEAE249CDC",
+        "version": "0.1.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/slayer-0.1.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Slayermusiq1 Guides",
+    "description": "Adds a right-click option to go to Slayermusiq1's guides from the quest tab",
+    "id": "slayermusiqguides-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "48836DF3102B08D372A816255F28BE538989CA13EC1E14705F3FEAA47107BA2DB36B0CC5BEA37ED49A7C55594A76194DA10BD61DC7D01BE951A56302AB090829",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/slayermusiq-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Smelting",
+    "description": "Show Smelting stats",
+    "id": "smelting-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "A1A3FF78029FBAE3A68ACE19EFBA653FF685AF3D1DEABA6A985E020067350FAE2E56423FEFF10A6669AA49B759A11FB20A251625F0BD466DBC0B310D85009F10",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/smelting-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Spawn Timer",
+    "description": "Shows NPC'S time since spawned",
+    "id": "spawntimer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "50F9FFC7EEFF4F848D0CC803E16427993C377760EAC0E3AA4F3851A9BBD6EB67A03D02114E591ED3427B358E9635E788024F4078EA8CC1D60A12E4865529DBB2",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/spawntimer-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Special Attack Counter",
+    "description": "Track special attacks used on NPCs",
+    "id": "specialattackcounter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3599A4F409B329CDCAECC9F09284AF0618E317AFEF4391A5F132306980C1B59C48680C173496867C4BBD67EC8D96A2E3AEDD0642FC6C00921A183CCF86AED8B0",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/specialcounter-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Status Bars",
+    "description": "Draws HP/Pray/Stamina/Spec status bars next to inventory",
+    "id": "statusbars-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "094FB303142E006377F435A28DE45D2B64F34EB11D5669FCF63674B29212280C0D5F109676FB8A69CFBA04C1D5090554490C75E0C9843C0FD8530775F0F4B116",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/statusbars-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Status Orbs",
+    "description": "Configure settings for the Minimap orbs",
+    "id": "statusorbs-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "54635BB892AA9952C76EB668470DC6F39009785C9E37BB1C4A88F690F12F0ADAEE6B2B2DB2D18B213B292C2D1184AC942EB17CF5542339373E24474802EEAC47",
+        "version": "0.0.7",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/statusorbs-0.0.7.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Stealing Artefacts",
+    "description": "A plugin for the Stealing Artefacts minigame.",
+    "id": "stealingartefacts-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E18CFCADC09C8045F44324F95EA4BB8E247B6A2A48F5B09609BF2FCBE45D81801AEE311A472A665CD8C3B270481FF04F13E1EE7CCB6403F68E3AC5A8D88B2B3B",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/stealingartefacts-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Stretched Mode",
+    "description": "Stretches the game in fixed and resizable modes",
+    "id": "stretchedmode-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "33F82856228EDE9EF342ED4821CA7C8E87EEBB2D1713ABFA199330C6AA0A34BDC96058A26BD2B3705C639A712732A25FB170486C0A82390E69A835146F74AD74",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/stretchedmode-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Supplies Used Tracker",
+    "description": "Tracks supplies used during the session",
+    "id": "suppliesusedtracker-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F1001A7C3133948960641E4FA646E2EAEB641BEA23B82256617579A6A99317EBA9BEECA2FA2B8E97E5CE2E8D858EACB589841A286E1DE270F30F78939768CE57",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/suppliestracker-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Team Capes",
+    "description": "Show the different team capes in your area and the amount of each",
+    "id": "teamcapes-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "EC4860433A6D4BB4FB450A621ED528F801B64A3CCCEF50C6678A996E7AB7B34D9BE4C4CB147B450C2928F6158E03FCFCF87A40CFF86C8B729E7AAA2E93DE0FAF",
+        "version": "0.0.4",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/teamcapes-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Tears Of Guthix",
+    "description": "Show timers for the Tears Of Guthix streams",
+    "id": "tearsofguthix-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C41756F28E77270053DC719B83C10069A88F53922B21AADAD7D42060B4BD88929CDA8D9E58265355B9E4C6A5BA2888C13B2ADB42B11435E408E23E8516166429",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/tearsofguthix-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Thieving",
+    "description": "Show thieving overlay",
+    "id": "thieving-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0A0BE0DBD966F0B78A23DB459938B2E4B8F9BBBAE6CBB9969F22ADA4417DEF2332987817DB3730180DBD9C7A24CCA8D0B49E041773547AC4F911E4AD9FF03045",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/thieving-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Tick Counter",
+    "description": "Count the amount of perfect combat ticks performed by each player",
+    "id": "tickcounter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "18A7120ECD772191EA772D3BAD1205F831EB34CFF290F7D27ADC6BCB964878E9B9A46091B6E4E6AB597E741A9D65A081871BDA0BB2251CB33EAF67876489EDFE",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/tickcounter-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Tile Indicators",
+    "description": "Highlight the tile you are currently moving to",
+    "id": "tileindicators-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "DFB1710D3AD55F9B36BD54BBB269288B69CFE90F582141BEA667F069A3AC4CC8DFA4280BCDE802A376B84793D68E03F1A0A919B91892F5097C683887820F5CB9",
+        "version": "0.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/tileindicators-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Timers",
+    "description": "Show various timers in an infobox",
+    "id": "timers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "57FF679DC44BAD4C7453915F332B460DFB8DB9681FF629CAB1DFABB8CE5F80FCA9BB81FB1E8FC37E13C009D3079BE7CED64A4E769F8C2F86EA78940781A72B7E",
+        "version": "0.1.3",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/timers-0.1.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Chat Timestamps",
+    "description": "Add timestamps to chat messages",
+    "id": "chattimestamps-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E5EB6F92BCCECA5AEED2AA01123A2D972EFA93CF6866FCA9C1A4D80AE6C35CA8B2C05AF57CB060213038250217E0AD1878FDA5A6E42CC3DD5B69F10FA657E541",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/timestamp-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Time Tracking",
+    "description": "Enable the Time Tracking panel, which contains timers, stopwatches, and farming and bird house trackers",
+    "id": "timetracking-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "CF86500958C893FA1349CC59FD6C3E9314211F217E3C060F1A0BED4411A1304A029376625E016AF498EE0DBBC438DCF009083445C74A2F0537868E0E624BA86B",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/timetracking-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Tithe Farm",
+    "description": "Show timers for the farming patches within the Tithe Farm minigame",
+    "id": "tithefarm-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1A9E876CB0BCF6CD24B0683BBB6C23EEA1048DC9A6A331ADB4BB49D5970B2FFF7443A947A1D601412B56CEA3FD1F946BE988E3F6A8F0382040E75B69E9097F67",
+        "version": "0.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/tithefarm-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "TMorph",
+    "description": "Want to wear a infernal cape? well now you can!",
+    "id": "tmorph-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E03CB3682FE0569C7B617700DFC7BA3CB6C5198DBF5153DE00CF0C4290C2A43941AE9C4BD11EDAC8D1B2800551F14AF04CE94EBF6C9F1796338BE53ADEB511D1",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/tmorph-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Twitch",
+    "description": "Integrates Twitch chat",
+    "id": "twitch-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E6CA62AB5A1D040733945B627CBF293B61BF82133C82E9D29D7E8F903E7F6BB935C4FD2098CDDEA35034BBE5FD60D657C01A1A493AFC7EAC636D13A102DE091B",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/twitch-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Virtual Levels",
+    "description": "Shows virtual levels (beyond 99) and virtual skill total on the skills tab",
+    "id": "virtuallevels-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "77154899252F319FC881CCB1DDF339979D8E81F063954119CA3C473A9498653427A7C51273A5E7587D23D906AF632AB248853124B45E456A79BCBC6B9F7DD723",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/virtuallevels-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Wiki",
+    "description": "Adds a Wiki button that takes you to the OSRS Wiki",
+    "id": "wiki-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "94C087FEBB0BAFA448A77505D96620C364A3CC4ADAB9EC94E8838DFC658BCF41EC7554FD0AD588EED288E916755E7C51011853C80C4CCF451104E0E8F77FB412",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/wiki-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Wintertodt",
+    "description": "Show helpful information for the Wintertodt boss",
+    "id": "wintertodt-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "38065DDE127AA17D7A3A9C796D45CCC2441A2DD30BA481112942AFBE6D737428D3A8DF0866C7A67FB13FEA78C421FB2F8926C34343616330FF8526835C644480",
+        "version": "0.0.8",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/wintertodt-0.0.8.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Woodcutting",
+    "description": "Show woodcutting statistics and/or bird nest notifications",
+    "id": "woodcutting-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3849873CC32E1D7F154DBA6D0536DF536DBF29C95830B55F727EC9EE858531F74A547AB4E28A2C0D4A22C79E886164A1C7CB22BB69BA2D17AB86B2ABB6F13A10",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/woodcutting-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "World Hopper",
+    "description": "Allows you to quickly hop worlds",
+    "id": "worldhopper-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B38D7E75AD603BA659ABD0076AE2E59DFA6062706A5B3E5B9C6C8B05FCD126B6ED722DEB98668C49A22E42C0665BFAA324B3691F0A2A2EA4D323C2789CB87E5E",
+        "version": "0.0.11",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/worldhopper-0.0.11.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "World Map",
+    "description": "Enhance the world map to display additional information",
+    "id": "worldmap-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FE3429E66B2530E00239C0792CC81677B982A364BCFE86FAFF70E4A98BFEB901B1462BC37B4D4493EA934DB522FE485A7FA204FFD97FE2973FF7E120E9DF468E",
+        "version": "0.1.1",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/worldmap-0.1.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "XP Globes",
+    "description": "Show XP globes for the respective skill when gaining XP",
+    "id": "xpglobes-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8A80B1F4DF0CA4FAB7F9984232AE09DA131F0A421736EA197A3BB0080A6AAE2B3B2D3328A6D4173E1520CD5DC0A6B042F4955E915C7BD46E9F904CE72A8186B0",
+        "version": "0.0.6",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/xpglobes-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "XP Tracker",
+    "description": "Enable the XP Tracker panel",
+    "id": "xptracker-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1FDA8BD1F4453C60AF1985A5B388592F77F239843552D9BA24D8E7D2E01A804A68F6CB51918206FD78049E30C8004902CB49E85636E70667C93CE49AB27174EE",
+        "version": "0.0.14",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/xptracker-0.0.14.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "XP Updater",
+    "description": "Automatically updates your stats on external xptrackers when you log out",
+    "id": "xpupdater-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "021F6F9A71A4C17F82D697E0DA8070DB69BAE6FBA630F5ABF35D8EDD6F761C4FF3570F31B2DE0E5041A316960DE33B0B21B6180F574699B2896F10104E7DE409",
+        "version": "0.0.5",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/xpupdater-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Zalcano",
+    "description": "Assistance for the Zalcano fight",
+    "id": "zalcano-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5E3CF995A9A5798266D3F0699FC0C026344074A61C19EECBFC8362DDEE56FA8CD256C68AD99A852BF0F627E5F8A91282716C1A69D9887C0B508F39D0B14BBBDE",
+        "version": "0.0.10",
+        "url": "https://github.com/tumri/oosrs-plugins/blob/master/release/zalcano-0.0.10.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
